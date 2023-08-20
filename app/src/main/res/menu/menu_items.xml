@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Home"
+        android:title="Home"
+        android:icon="@drawable/home_bottom">
+    </item>
+
+    <item android:id="@+id/GameZone_bottom"
+        android:title="GameZone"
+        android:icon="@drawable/games_bottom">
+    </item>
+
+<!--    <item android:id="@+id/CreateQuiz_bottom"-->
+<!--        android:title="CreateQuiz"-->
+<!--        android:icon="@drawable/add_bottom">-->
+<!--    </item>-->
+
+    <item android:id="@+id/LeaderBoard_bottom"
+        android:title="LeaderBoard"
+        android:icon="@drawable/leaderboard_bottom">
+    </item>
+
+    <item android:id="@+id/Profile_bottom"
+        android:title="Profile"
+        android:icon="@drawable/person_left">
+    </item>
+
+</menu>

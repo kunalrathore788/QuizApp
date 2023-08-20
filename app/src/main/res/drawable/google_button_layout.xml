@@ -1,0 +1,15 @@
+<!-- drawable/button_layout.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#FF4081" /> <!-- Background color when button is pressed -->
+            <corners android:radius="8dp" /> <!-- Corner radius of the button -->
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="#FFFFFF" /> <!-- Default background color of the button -->
+            <corners android:radius="8dp" /> <!-- Corner radius of the button -->
+        </shape>
+    </item>
+</selector>

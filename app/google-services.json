@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268683215139",
+    "project_id": "quizai-5c099",
+    "storage_bucket": "quizai-5c099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268683215139:android:609290d5f204ef3baecc96",
+        "android_client_info": {
+          "package_name": "com.hello_groups.quizai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268683215139-kh2t1jcjo3f88nlnoee42bfrjmbc1i3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hello_groups.quizai",
+            "certificate_hash": "3a38100455a48e554a3b33e6e4e67adff8a98962"
+          }
+        },
+        {
+          "client_id": "268683215139-5gq6e0959q3ia7r36qnhho1pq1ahm2t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKcBgv5atb1ijscASWFxqZjFNIhdfKelI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268683215139-5gq6e0959q3ia7r36qnhho1pq1ahm2t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
